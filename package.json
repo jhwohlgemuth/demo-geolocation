@@ -58,7 +58,7 @@
         "postcss-reporter": "^6.0.1",
         "postcss-safe-parser": "^4.0.1",
         "stmux": "^1.7.1",
-        "stylelint": "^11.1.1",
+        "stylelint": "^15.10.1",
         "stylelint-config-recommended": "^3.0.0",
         "terser-webpack-plugin": "^2.2.1",
         "watch": "^1.0.2",
